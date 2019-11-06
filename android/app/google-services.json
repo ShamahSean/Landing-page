@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648139998813",
+    "firebase_url": "https://seans-landing-page-62e01.firebaseio.com",
+    "project_id": "seans-landing-page",
+    "storage_bucket": "seans-landing-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648139998813:android:e63ccabc1e1ed729",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648139998813-k2ktegpgucvd5irsjv3quvcv5g5gnbas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "640380673197e2da83ecbd2319a1d9fc00a0f1b5"
+          }
+        },
+        {
+          "client_id": "648139998813-ldecmqr59mc60uik7td3c1oab3gqt2et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsCvQELfcGD1I4Vsf69f8py0aH2utnzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648139998813-ldecmqr59mc60uik7td3c1oab3gqt2et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
